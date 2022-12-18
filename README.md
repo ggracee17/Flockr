@@ -1,16 +1,7 @@
 # Flockr 
 - an in-house digital collaboration and communication tool for groups and teams to support the high intensity learning environment
 
-## 1. Aims of the project:
-
-* To provide hands on experience testing, developing, and maintaining a backend server in python.
-* To develop problem solving skills in relation to the software development lifecycle.
-* Learn to work effectively as part of a team by managing project, planning, and allocation of responsibilities among the members of team.
-* Gain experience in collaborating through the use of a source control and other associated modern team-based tools.
-* Apply appropriate design practices and methodologies in the development of their solution
-* Develop an appreciation for product design and an intuition of how a typical customer will use a product.
-
-## 2. Features of flockr include:
+## Features
 
 1. Ability to login, register if not registered, and log out
 2. Ability to reset password if forgotten
