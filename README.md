@@ -1,7 +1,7 @@
 # Flockr 
 UNSW COMP1531 20T3 Project
 
-- an in-house digital collaboration and communication tool for groups and teams to support the high intensity learning environment (Group Project for uni course)
+- an in-house digital collaboration and communication tool for groups and teams to support the high intensity learning environment
 
 ## Features
 
